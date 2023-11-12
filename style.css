@@ -5,7 +5,7 @@ body, html {
 }
 
 #gameCanvas {
-    background: black; /* Temporary, will be replaced by starfield in JS */
+    background: black; /* This will be the background of the canvas, can be replaced in JS */
     width: 100vw;
     height: 100vh;
     display: block;
